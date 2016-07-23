@@ -1,0 +1,22 @@
+{
+  "name": "web-socket-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mei18/Web-Sockets-Demo.git"
+  },
+  "author": "Melanie Liang Gao",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mei18/Web-Sockets-Demo/issues"
+  },
+  "homepage": "https://github.com/mei18/Web-Sockets-Demo#readme",
+  "dependencies": {
+    "websocket": "^1.0.23"
+  }
+}
